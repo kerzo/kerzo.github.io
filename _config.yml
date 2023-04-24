@@ -60,7 +60,7 @@ plugins:
 
 author:
   name   : "Ryan Kerr"
-  avatar : "/assets/images/pfp.jpg"
+  avatar : "/assets/images/pfp.png"
   bio    : "Normie looking to learn and maybe blog my way through it"
   links:
     - label: "Website"
