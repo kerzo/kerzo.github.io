@@ -35,6 +35,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
+  - .well-known
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -58,9 +59,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Ryan Kerr"
+  avatar : "/assets/images/pfp.jpg"
+  bio    : "Normie looking to learn and blog"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
